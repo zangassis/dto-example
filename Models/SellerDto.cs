@@ -1,0 +1,1 @@
+﻿public record SellerDto(string Name, string Email);
